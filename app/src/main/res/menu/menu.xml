@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="ترتیبات"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="لارښونی"
+        android:icon="@drawable/ic_baseline_hdr_auto_24"/>
+    <item android:title="زموږ په اړه" android:icon="@drawable/ic_baseline_heart_broken_24"/>
+    <item android:title="اړیکی" android:icon="@drawable/ic_baseline_heart_broken_24"/>
+    <item android:title="ارزښت وټاګی"
+        android:icon="@drawable/ic_launcher_background"/>
+
+
+</menu>
